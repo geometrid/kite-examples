@@ -17,6 +17,6 @@
 <configuration>
   <property>
     <name>fs.default.name</name>
-    <value>hdfs://quickstart.cloudera/</value>
+    <value>hdfs://cdh0.platform.infochimps/</value>
   </property>
 </configuration>
